@@ -298,7 +298,7 @@ countries = [
   'Yemen',
   'Zambia',
   'Zimbabwe'
-];
+]
 
 if len(countries) % 2 == 0:
     median1 = countries[len(countries)//2]
